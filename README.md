@@ -28,7 +28,8 @@
 		- [Presentation Mode Disable](#presentation-mode-disable)
 - [Automatic Policy Execution Scope](#automatic-policy-execution-scope)
 - [End Notes](#end-notes)
-	- [Rehearsals](#rehearsals)
+	- [Presentations](#presentations)
+	<!-- - [Rehearsals](#rehearsals) -->
 
 ---
 
@@ -294,6 +295,11 @@ Add the `Presentation Mode 2: Enabled` Smart Group as an **Exclusion** for autom
 # End Notes
 ![Presentation Mode has ended](images/PresentationMode-00023.png "Presentation Mode has ended")
 
+## Presentations
+- [U of U MacAdmins, October 2020](https://stream.lib.utah.edu/index.php?c=details&id=13383)
+
+<!--
 ## Rehearsals
 - [2020-09-19](https://snelson.us/presentationMode/rehearsals/rehearsal-2020-09-19.m4v)
 - [2020-10-03](https://snelson.us/presentationMode/rehearsals/rehearsal-2020-10-03.m4v)
+-->
