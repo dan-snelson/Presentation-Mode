@@ -145,7 +145,7 @@ Create two Smart Groups using the following criteria:
 
 ### Delayed Policy Trigger Create
 
-Customize the `plistDomain` variable and add the following Parameter Labels to the [Delayed Policy Trigger Create.bash](images/Delayed%20Policy%20Trigger%20Create.bash) script:
+Customize the `plistDomain` variable and add the following Parameter Labels to the [Delayed Policy Trigger Create.bash](Delayed%20Policy%20Trigger%20Create.bash) script:
 
 ![Delayed Policy Trigger Create](images/PresentationMode-00009.png "Delayed Policy Trigger Create")
 
